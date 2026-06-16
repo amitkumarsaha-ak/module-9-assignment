@@ -1,0 +1,29 @@
+body{
+font-family: Arial, sans-serif;
+margin: 20px;
+}
+
+h1{
+color: blue;
+}
+
+input{
+padding: 8px;
+margin: 10px 0;
+}
+
+button{
+padding: 8px 15px;
+cursor: pointer;
+}
+
+#clock{
+margin-top: 20px;
+font-size: 28px;
+font-weight: bold;
+color: green;
+}
+
+ul{
+margin-top: 15px;
+}
